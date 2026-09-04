@@ -15,7 +15,7 @@ const WEB3_KEY = "9ccc38bd-3017-4286-a082-e3aae869c3fa";
 const AGENT_AR = "نورلاين";
 const AGENT_EN = "Nurline";
 const AGENT_EMAIL = "info@nurlinebrokerage.com";
-const AGENT_ADDRESS = "التجمع الخامس - شارع التسعين الشمالي// ← عدّلها للعنوان بالشارع والمبنى
+const AGENT_ADDRESS = "التجمع الخامس - شارع التسعين الشمالي، القاهرة الجديدة";
 const AGENT_HOURS = "السبت — الخميس · 10 ص إلى 8 م (بتوقيت القاهرة)";
 
 const NAV_LINKS = [
