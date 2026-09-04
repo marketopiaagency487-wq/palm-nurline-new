@@ -3,10 +3,10 @@
 import { useState, useEffect, useRef, FormEvent } from "react";
 
 /* ─── CONFIG ─── */
-const PHONE = "01001050018";
-const PHONE_DISPLAY = "0100 105 0018";
-const PHONE_INTL = "+201001050018";
-const WA_NUMBER = "201001050018";
+const PHONE = "01117322733";
+const PHONE_DISPLAY = "01117322733";
+const PHONE_INTL = "+201117322733";
+const WA_NUMBER = "201117322733";
 const WA_MSG = "مرحباً، أرغب في الاستفسار عن هاسيندا رأس الحكمة - بالم هيلز";
 const WA_URL = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(WA_MSG)}`;
 const WEB3_KEY = "9ccc38bd-3017-4286-a082-e3aae869c3fa";
