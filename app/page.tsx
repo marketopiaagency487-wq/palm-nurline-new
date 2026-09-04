@@ -9,7 +9,7 @@ const PHONE_INTL = "+201117322733";
 const WA_NUMBER = "201117322733";
 const WA_MSG = "مرحباً، أرغب في الاستفسار عن هاسيندا رأس الحكمة - بالم هيلز";
 const WA_URL = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(WA_MSG)}`;
-const WEB3_KEY = "9ccc38bd-3017-4286-a082-e3aae869c3fa";
+const WEB3_KEY = "243fbc9c-faef-407d-b1e8-0aa8537496dc";
 
 /* ─── هوية المعلن — لازم تطابق اسم الحساب في Google Ads Advertiser Verification ─── */
 const AGENT_AR = "نورلاين";
